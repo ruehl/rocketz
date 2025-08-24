@@ -9,7 +9,8 @@
 		"vscode": {
 			"extensions": [
 				"llvm-vs-code-extensions.vscode-clangd",
-				"CS128.cs128-clang-tidy"
+				"CS128.cs128-clang-tidy",
+				"xaver.clang-format"
 			]
 		}
 	}
